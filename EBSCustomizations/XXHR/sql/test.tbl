@@ -4,3 +4,5 @@ CREATE TABLE XXDON_FD_TEST
   TEST   		   VARCHAR2(100)
 )
 ;
+
+
