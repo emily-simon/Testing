@@ -11,7 +11,7 @@ The phase has changed from the default "con" to "tbm" with a subphase.
 Please refer to technical analysis doc 
 http://files.oraclecorp.com/content/AllPublic/SharedFolders/Oracle%20Supplier%20Hub-Public/TDD/SH_XDF%20Object%20Type%20List.xls
 to understand the subphase being used.
-bso Tue May 12 17:09:02 PDT 2010
+bso Tue May 13 17:09:02 PDT 2010
 --> 
 <!-- dbdrv: exec java oracle/apps/fnd/odf2 FndXdfCmp.class java &phase=tbm+2 \ --> 
 <!-- dbdrv: checkfile:~PROD:~PATH:~FILE:con_type &un_apps &pw_apps &un_apps \ -->
