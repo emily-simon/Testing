@@ -1,0 +1,5 @@
+just some text
+abcz
+zzzzefgh
+Some more text.
+This line is removed on the left.
