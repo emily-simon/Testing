@@ -158,6 +158,7 @@
         <label>Address Name</label>
         <type>Text</type>
     </nameField>
+    <!-- comment test -->
     <pluralLabel>Addresses</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
