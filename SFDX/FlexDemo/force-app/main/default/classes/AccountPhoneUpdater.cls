@@ -23,6 +23,7 @@ public class AccountPhoneUpdater {
         }
 
         // Update the Accounts in the database
+        // comment
         update accountsToUpdate;
     }
 }
