@@ -1,4 +1,5 @@
-public class AccountController {
+public class AccountController 
+{
 	public static void CustomFieldCheck(List<Account> accList)
     {
         for (Account acc : accList)
