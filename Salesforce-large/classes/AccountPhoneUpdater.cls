@@ -2,7 +2,7 @@ public class AccountPhoneUpdater {
     public static void updateAccountPhone(List<Contact> contacts) {
         Set<Id> accountIds = new Set<Id>();
 
-        // Collect Account IDs from updated Contacts
+        // Collect Account IDs from updated contacts
         for (Contact con : contacts) {
             if (con.AccountId != null) {
                 accountIds.add(con.AccountId);
