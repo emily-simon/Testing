@@ -9,7 +9,7 @@ public class AccountPhoneUpdater {
             }
         }
 
-        // Query the Accounts that need their Phone field updated
+        // Query the accounts that need their Phone field updated
         List<Account> accountsToUpdate = [SELECT Id, Phone FROM Account WHERE Id IN :accountIds];
 
         // Update the Phone field for each Account based 
