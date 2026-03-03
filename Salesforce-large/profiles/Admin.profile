@@ -90,9 +90,6 @@
         <apexClass>CaseAssignee</apexClass>
         <enabled>true</enabled>
     </classAccesses><classAccesses>
-        <apexClass>CaseForward</apexClass>
-        <enabled>true</enabled>
-    </classAccesses><classAccesses>
         <apexClass>ChangePasswordController</apexClass>
         <enabled>true</enabled>
     </classAccesses><classAccesses>
